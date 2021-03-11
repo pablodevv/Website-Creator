@@ -25,4 +25,4 @@ Coloque o nome da tabela de "website", deixe em 4 colunas e clique em "Go".
 Na primeira coluna você vai deixar o nome "id" e deixe no tipo "int" com 11 de length, na segunda deixe o nome "title" com o tipo "varchar" com 250 de lenght, na terceira deixe o nome "content" do tipo "text" e na quarta deixe o nome "author" do tipo "varchar" com 250 de lenght. 
 Agora clique em "Save"
 
-Pronto. Agora basta digitar no google "http://localhost/Website%20builder/" e usar o site.
+Pronto. Agora basta digitar no google "http://localhost/Website-Creator/" e usar o site.
